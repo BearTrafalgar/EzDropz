@@ -1,0 +1,5 @@
+name: EzXP
+main: uni.apdev.ezdropz.Main
+version: 1.0.3
+author: MrUniverse
+description: Takes XP from a kill of a mob and gives it to a player.
